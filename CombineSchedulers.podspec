@@ -92,7 +92,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.source_files  = "Sources/CombineSchedulers/**/*.swift"
-  spec.exclude_files = ["Sources/CombineSchedulers/**/Test*.swift", "Sources/CombineSchedulers/**/FailingScheduler.swift", "Sources/CombineSchedulers/**/Deprecations.swift"]
+
   # spec.public_header_files = "Classes/**/*.h"
 
 
